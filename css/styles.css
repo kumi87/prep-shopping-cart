@@ -1,0 +1,36 @@
+#head{
+	background-color: #ff8c00;
+	color: #8b4513;
+}
+
+
+#container{
+	
+	border-top: 1px solid gray;
+	
+
+
+}
+
+.name{
+	font-size: 25px;
+	
+
+}
+
+.description{
+	font-size: 15px;
+	
+
+}
+
+
+.price{
+	font-size: 25px;
+	
+	text-align: right;
+	vertical-align: top;
+
+	border-bottom: 1px solid gray;
+
+}
